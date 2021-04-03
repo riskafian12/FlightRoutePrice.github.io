@@ -1,0 +1,64 @@
+[
+    {
+        "maskapai": "Adam",
+        "AsalPenerbangan": "Soekarno-Hatta (CGK)",
+        "TujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "200000"
+    },
+    {
+        "maskapai": "Garuda Indonesia",
+        "AsalPenerbangan": "Soekarno-Hatta (CGK)",
+        "TujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "200000"
+    },
+    {
+        "maskapai": "Batik air",
+        "AsalPenerbangan": "Husein Sastranegara (BDO)",
+        "TujuanPenerbangan": "Sultan Iskandarmuda (BTJ)",
+        "hargaTiket": "80000"
+    },
+    {
+        "maskapai": "Citilink",
+        "AsalPenerbangan": "Juanda (SUB)",
+        "TujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "89000"
+    },
+    {
+        "maskapai": "Batik Air",
+        "AsalPenerbangan": "Juanda (SUB)",
+        "TujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "89000"
+    },
+    {
+        "maskapai": "Citilink",
+        "AsalPenerbangan": "Husein Sastranegara (BDO)",
+        "TujuanPenerbangan": "Inanwatan (INX)",
+        "hargaTiket": "200000"
+    },
+    {
+        "maskapai": "Citilink",
+        "AsalPenerbangan": "Husein Sastranegara (BDO)",
+        "TujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "100000"
+    },
+    {
+        "maskapai": "Batik Air",
+        "AsalPenerbangan": "Juanda (SUB)",
+        "TujuanPenerbangan": "Sultan Iskandarmuda (BTJ)",
+        "hargaTiket": "100000"
+    },
+    {
+        "maskapai": "sada",
+        "AsalPenerbangan": "Soekarno-Hatta (CGK)",
+        "TujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "100000",
+        "pajak": null,
+        "total": 0
+    },
+    {
+        "maskapai": "sada",
+        "AsalPenerbangan": "Soekarno-Hatta (CGK)",
+        "TujuanPenerbangan": "Ngurah Rai (DPS)",
+        "hargaTiket": "100000"
+    }
+]
